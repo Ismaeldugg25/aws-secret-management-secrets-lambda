@@ -1,3 +1,5 @@
+<img width="2400" height="1261" alt="AWS SECRE" src="https://github.com/user-attachments/assets/55e6ecf4-f87d-4f7e-89a8-229fba2b13bc" />
+
 # Secret Management with Secrets Manager and Lambda
 
 ## **Problem**
